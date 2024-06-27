@@ -45,12 +45,9 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="#"  />
-
+ <br>
 ### 
 
-<br clear="both">
 
 
 ###
