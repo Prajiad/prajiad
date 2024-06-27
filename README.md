@@ -9,7 +9,7 @@
 
 ###
 
-<h2> Software and Languages I use </h2>
+<h2> Languages and Tools: </h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -25,7 +25,7 @@
 
 ###
 
-<h2> Connect with me on: </h2>
+<h2> Connect with me: </h2>
 
 <br clear="both">
 
