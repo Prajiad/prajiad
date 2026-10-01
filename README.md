@@ -1,45 +1,55 @@
-<h2 align="left">Hi 👋! My name is Daniele and I'm a frontend developer, from Italy🇮🇹.</h2>
+<h1 align="center">Hi 👋, I'm Daniele Canu</h1>
 
-###
+<h3 align="center">🖥️ Linux System Administrator · ⚙️ System Integrator · 🏠 Homelab Enthusiast · 🇮🇹 Italy</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajiad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajiad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h2> Languages and Tools: </h2>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
-###
-
-<h2> Connect with me: </h2>
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://instagram.com/dan.canu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<p align="center">
+  <a href="https://dancanu.it">
+    <img src="https://img.shields.io/badge/Website-dancanu.it-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://twitch.tv/prajiad" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://discord.com/prajiad" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://twitter.com/luxPrajiad" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
+</p>
+
+---
+<h3>
+  👨‍💻
+  <img src="https://cdn.simpleicons.org/aboutdotme/FFFFFF" height="80" alt="About Me" align="middle" />
+</h3>
+
+
+I'm **Daniele**, a Linux-focused **System Administrator and System Integrator** from Italy 🇮🇹.
+
+I enjoy working with Linux systems, automation, networking, virtualization and self-hosted infrastructure.
+My daily work involves maintaining systems, troubleshooting infrastructure issues and automating repetitive tasks.
+
+Outside of work, I like building and experimenting with my own **homelab**, running self-hosted services and learning new technologies.
+
+```text
+🖥️ Linux & System Administration
+⚙️ Automation & Configuration Management
+🌐 Networking & Infrastructure
+📦 Virtualization & Containers
+🏠 Homelab & Self-hosting
+🔐 Security & Privacy
+🐧 Open Source
+```
+
+---
+
+### 🛠️ Languages, Tools & Technologies
+
+#### 🐧 Linux & System Administration
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/linux/FFFFFF" height="45" alt="Linux" title="Linux"/>
+  <img src="https://cdn.simpleicons.org/gnubash/FFFFFF" height="45" alt="Bash" title="Bash"/>
+  <img src="https://cdn.simpleicons.org/redhat/EE0000" height="45" alt="Red Hat" title="Red Hat"/>
+  <img src="https://cdn.simpleicons.org/debian/A81D33" height="45" alt="Debian" title="Debian"/>
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="45" alt="Ubuntu" title="Ubuntu"/>
+</p>
+
+#### ⚙️ Automation & DevOps
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/ansible/EE0000" height="45" alt="Ansible" title="Ansible"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" height="45" alt="Git" title="Git"/>
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="45" alt="GitHub" title="GitHub"/>
+  <img src="https://cdn.simpleicon
